@@ -6,7 +6,7 @@ import xlsxwriter
 print("\nWelcome to the merging script!")
 
 #Set the prompt variable equal to a constant value
-prompt = "8==D~ "
+prompt = "> "
 
 #Print statement to get the first file the user is interested in merging
 print('Please type in the full path to the first file you would like to merge.\n')
